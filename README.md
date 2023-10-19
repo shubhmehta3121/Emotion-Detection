@@ -22,7 +22,7 @@
    - The program will start capturing the live video feed and display real-time attribute analysis.
 
    ```bash
-   python all_in_one.py
+   python all in one.py
    ```
 
 3. **View Real-time Analysis:**
@@ -32,3 +32,6 @@
 ## Customization
 
 The program allows users to customize the deep learning model and backend connector used for facial analysis. Choose the most suitable model and connector based on your performance and resource requirements.
+
+
+## The other files ('Emotion Detector.py, Live Stream Identifier.py and Person Name Finder.py) are simply parts of the main 'all in one.py' py created to understand the whole code in parts if needed.
