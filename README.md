@@ -21,10 +21,6 @@
    - Choose the deep learning model and backend connector based on your preference.
    - The program will start capturing the live video feed and display real-time attribute analysis.
 
-   ```bash
-   python all in one.py
-   ```
-
 3. **View Real-time Analysis:**
    - The program displays the live video feed with overlays showing emotions, gender, age, and race of individuals.
    - Based on the cosine similarity score, the person's name (corresponding to the highest similarity) is accurately listed.
